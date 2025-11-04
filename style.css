@@ -7,6 +7,7 @@ p{
 }
 
 #main{
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,6 +23,7 @@ p{
 }
 
 
+
 #lizka{
     height: auto;
     width: 30%;
@@ -29,4 +31,20 @@ p{
 #songbutton{
     width: 100px;
     background-color: #EEAECA;
+}
+
+#aaa{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    right: 485px;
+    top:480px;
+    transform: scaleX(-1);
+}
+#jjj{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 490px;
+    top:480px;
 }
